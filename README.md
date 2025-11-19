@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 My name is Siros. Im a student at Holy Trinity and learing tech
 
 Technical Skills
